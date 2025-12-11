@@ -1,6 +1,11 @@
-hello 
+hello
 this is first file
+<<<<<<< HEAD
 this is file is created by me
 thank you
 this is updated file by the tester
 
+=======
+this is created by devloper
+thank you
+>>>>>>> dev
